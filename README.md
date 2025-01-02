@@ -970,6 +970,24 @@ export const StatusIcon = {
 
 </details>
 
+Snap Sots:
+
+Authentication:
+![onboarding](https://github.com/user-attachments/assets/ea452604-089f-4033-8b24-a55001dff8f9)
+
+Patient form page: 
+![patient-form-page](https://github.com/user-attachments/assets/48dce98b-b6ea-4ba2-b0f2-2ae863fb2c21)
+
+Appointment form page:
+![appointment-form-page](https://github.com/user-attachments/assets/b43137df-8001-4b2e-8f5e-19f5e46bfdbe)
+
+Success Page:
+![success-page](https://github.com/user-attachments/assets/6496cf64-8ae6-4a74-a35a-54f77dd32a24)
+
+Admin Page:
+![Content](https://github.com/user-attachments/assets/bd7e22a5-7dd7-45b0-8f77-e34d7678897b)
+
+
 ## <a name="links">🔗 Assets</a>
 
 Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing)
